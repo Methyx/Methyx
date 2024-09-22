@@ -1,5 +1,5 @@
 # 💫 About Me:
-Développeur web Fullstack React / NodeJS avec une grande <br>expérience du monde de l'énergie.
+Développeur web Fullstack React / NodeJS avec une grande expérience du monde de l'énergie.
 
 
 ## 🌐 Socials:
